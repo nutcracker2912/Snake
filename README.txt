@@ -56,4 +56,4 @@ This project is a classic Snake Game developed in Python using the `turtle` grap
 
 ## License
 
-This project is open-source and available for use under the MIT License.
+This project is open-source and available for use without a License.
